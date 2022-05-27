@@ -1,0 +1,7 @@
+F:\Unity Project\WORK_C#\TxtQuestJustMoby\TxtQuestJustMoby\bin\Debug\TxtQuestJustMoby.exe.config
+F:\Unity Project\WORK_C#\TxtQuestJustMoby\TxtQuestJustMoby\bin\Debug\TxtQuestJustMoby.exe
+F:\Unity Project\WORK_C#\TxtQuestJustMoby\TxtQuestJustMoby\bin\Debug\TxtQuestJustMoby.pdb
+F:\Unity Project\WORK_C#\TxtQuestJustMoby\TxtQuestJustMoby\obj\Debug\TxtQuestJustMoby.csproj.AssemblyReference.cache
+F:\Unity Project\WORK_C#\TxtQuestJustMoby\TxtQuestJustMoby\obj\Debug\TxtQuestJustMoby.csproj.CoreCompileInputs.cache
+F:\Unity Project\WORK_C#\TxtQuestJustMoby\TxtQuestJustMoby\obj\Debug\TxtQuestJustMoby.exe
+F:\Unity Project\WORK_C#\TxtQuestJustMoby\TxtQuestJustMoby\obj\Debug\TxtQuestJustMoby.pdb
